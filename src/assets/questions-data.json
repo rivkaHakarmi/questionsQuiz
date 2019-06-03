@@ -1,0 +1,53 @@
+[
+    {
+        "Question": "2+2",
+        "Answers": [
+            {
+                "key": "4",
+                "value": true
+            },
+            {
+                "key": "5",
+                "value": false
+            },
+            {
+                "key": "3",
+                "value": false
+            }
+        ]
+    },
+      {
+        "Question": "7+7",
+        "Answers": [
+            {
+                "key": "12",
+                "value": false
+            },
+            {
+                "key": "14",
+                "value": true
+            },
+            {
+                "key": "11",
+                "value": false
+            }
+        ]
+    },
+      {
+        "Question": "3*3",
+        "Answers": [
+            {
+                "key": "2",
+                "value": false
+            },
+            {
+                "key": "4",
+                "value": false
+            },
+            {
+                "key": "9",
+                "value": true
+            }
+        ]
+    }
+]
